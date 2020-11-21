@@ -212,7 +212,7 @@ color: black;
        left: 65px;
    }
 .maincontent{
-    margin: 0px 205px -135px;
+    margin: 0px 205px -100px;
     height:100%;
     /* background:green; */
     min-width: 300px;
@@ -224,7 +224,7 @@ color: black;
     position: relative;
     font-family: 'Roboto', sans-serif;
     padding: 16px;
-   text-align: justify;
+    text-align: justify;
    
 }
 .firstimg{
