@@ -5,9 +5,7 @@ color: white;
 border-radius:30px 60px 40px;
 height:200px;
 width:300px;
-
 }
-
 .detailsmember{
     margin: 20px;
     /* margin-top: 25px; */
@@ -16,40 +14,32 @@ width:300px;
     text-align: left;
     position: relative;
 }
-
 .memberpic{
     position: absolute;
     bottom: -25px;
     right: 10px;
 }
-
 .detailsarea{
     position: relative;
-    /* float: left; */
-    
+    /* float: left; */ 
 }
-
 .detailsarealeft{
     position: absolute;
     /* float: left; */
     left: 50px;
-    
 }
-
 .detailsarearight{
     position: relative;
     /* float: right; */
     left: 50%;
     /* top: -200px; */
 }
-
 .detailsarealast{
     position: relative;
     /* float: left; */
     left: 50px;
     /* top: -400px; */
 }
-
 .maincontent_cu{
     margin: 0px 0px -130px 215px;
     height:100%;
@@ -63,6 +53,5 @@ width:300px;
     position: relative;
     font-family: 'Roboto', sans-serif;
     padding: 16px;
-    text-align: justify;
-   
+    text-align: justify; 
 }
