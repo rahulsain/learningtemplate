@@ -1,4 +1,1 @@
-# UniHack_Project
-Unihack project 2020
-
-This is Official Repository for Our UniHack Project
+This is a template for a website that i made during my course at NIELIT Gorakhpur,India
