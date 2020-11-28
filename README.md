@@ -1,4 +1,4 @@
-# This is a template for a website that i made during my course at NIELIT Gorakhpur,India.
+# This is a template for a website that I made during my 40 hours course at NIELIT Gorakhpur,India.
 
 ![](main_page.gif)
 
