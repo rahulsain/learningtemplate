@@ -22,7 +22,7 @@ There are some guildelines which everyone should follow while contributing to th
 
 ## 1. Fork the Repository
 
-First step is to fork this repository (TheBeginner-s/learningtemplate) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page. 
+First step is to fork this repository (rahulsain3000/learningtemplate) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page. 
 
 
 Also, star and watch the repository to receive all the updates directly to your mail.
@@ -45,7 +45,7 @@ Now, you have the repository on your system and you are ready to make changes. B
 
 To avoid any conflicts, you need to pull all the changes from the main repository. 
 
-So, after cloning the forked repository (your-username/learningtemplate) to your system, use the command `git remote add upstream https://github.com/TheBeginner-s/learningtemplate.git` to point to the main repository. You only need to do this once.
+So, after cloning the forked repository (your-username/learningtemplate) to your system, use the command `git remote add upstream https://github.com/rahulsain3000/learningtemplate.git` to point to the main repository. You only need to do this once.
 
 Now, after making any changes to your project on the system, follow these simple steps to push your work to the repository:
 
@@ -66,7 +66,7 @@ After pushing the changes to your forked repository (your-username/learningtempl
 
 
 > NOTE:
-> If you are some commits behind of TheBeginner-s:main then you need to first git pull upstream main from the system, push it to your forked repository and then create the Pull Request.
+> If you are some commits behind of rahulsain3000:main then you need to first git pull upstream main from the system, push it to your forked repository and then create the Pull Request.
 
 Give a detailed and useful explaination of what you did in the comments of pull requests and someone from the maintainers or team leads will review the code and accept the pull request or ask you to change some things before merging it.
 
